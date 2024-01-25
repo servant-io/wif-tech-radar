@@ -4,8 +4,8 @@
 @if $UIRefresh2022 {
   .hero-banner {
     height: $tabletBannerHeight;
-    background-color: $amethyst;
-    background-image: url('/images/banner-image-mobile.jpg');
+    background-color: #ff0000; // $amethyst;
+    // background-image: url('/images/banner-image-mobile.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
